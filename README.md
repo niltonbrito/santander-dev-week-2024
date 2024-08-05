@@ -1,4 +1,4 @@
-# Santander Dev Weeke 2024
+# Santander Dev Week 2024
 Java RESTful APIcriada para o Santander Dev Week.
 
 ## Driagrama de Classes
