@@ -19,7 +19,7 @@ public class Account {
     @Column(scale = 13, precision = 2)
     private BigDecimal balance;
 
-    @Column(name = "addiotional_limit",scale = 13, precision = 2)
+    @Column(name = "addiotional_limit",precision = 13, scale = 2)
     private BigDecimal limit;
 
     public Long getId() {
